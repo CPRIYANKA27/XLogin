@@ -7,6 +7,7 @@ Introduction🚀
 XLogin provides essential user authentication functionalities, including user registration, login, and logout. It is designed to be secure, easy to use, and flexible enough to fit into various applications.
 
 Features🛠️
+
 Secure user registration
 User login with JWT token generation
 Password hashing and validation
